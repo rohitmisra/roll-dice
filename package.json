@@ -1,0 +1,22 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "roll a dice",
+  "main": "dice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitmisra/roll-dice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitmisra/roll-dice/issues"
+  },
+  "homepage": "https://github.com/rohitmisra/roll-dice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
